@@ -1,4 +1,4 @@
-﻿import { publicContact, techTags } from './shared.js';
+import { publicContact, techTags } from './shared.js';
 
 export const en = {
   ui: {
@@ -8,7 +8,7 @@ export const en = {
   },
   tech: {
     name: ['Nerine', 'Aoi'],
-    tagline: 'Junior Web Developer Â· Benalmadena, Malaga',
+    tagline: 'Junior Web Developer · Benalmadena, Malaga',
     contact: publicContact.tech,
     sidebar: [
       {
@@ -40,7 +40,7 @@ export const en = {
         title: 'Education',
         lines: [
           { text: 'DAW - Web App Development', strong: true },
-          { text: 'CESUR Â· 2024 - June 2026', tone: 'dim' },
+          { text: 'CESUR · 2024 - June 2026', tone: 'dim' },
           { text: 'Graduating June 2026', tone: 'highlight' },
         ],
       },
@@ -63,7 +63,7 @@ export const en = {
           {
             name: 'Sesvia',
             date: '2025 - 2026',
-            subtitle: 'Full-stack appointment & service management platform Â· Capstone project',
+            subtitle: 'Full-stack appointment & service management platform · Capstone project',
             bullets: [
               'End-to-end booking platform for independent professionals (wellness, tutors, coaches)',
               'Integrated Stripe and PayPal payment processing with live checkout and webhook handling',
@@ -74,7 +74,7 @@ export const en = {
           {
             name: 'CarriComms',
             date: '2024 - present',
-            subtitle: 'Cross-platform chat relay for live streamers Â· Active development',
+            subtitle: 'Cross-platform chat relay for live streamers · Active development',
             bullets: [
               'Routes live chat messages from Twitch, YouTube, and Kick simultaneously into a single Discord channel',
               'Handles multi-platform API authentication, real-time event streams, and message normalisation',
@@ -84,7 +84,7 @@ export const en = {
           {
             name: 'Cupid Hex',
             date: 'In progress',
-            subtitle: 'Chat simulator x visual novel Â· Custom messaging interface engine',
+            subtitle: 'Chat simulator x visual novel · Custom messaging interface engine',
             bullets: [
               'Story delivered through a simulated phone/chat UI with branching paths and a single-choice-locks-fate mechanic',
               "Custom chat engine built in Ren'Py handling message sequencing, contact simulation, and UI skinning; original writing, character design, and UX partially complete",
@@ -94,7 +94,7 @@ export const en = {
           {
             name: 'Once Upon a Tale',
             date: 'In progress',
-            subtitle: 'Fairytale romance visual novel Â· Early development',
+            subtitle: 'Fairytale romance visual novel · Early development',
             bullets: ['Original story, world-building, and character art direction'],
             tags: techTags.onceUponATale,
           },
@@ -107,7 +107,7 @@ export const en = {
           {
             name: 'DataControl',
             date: 'Mar - Jun 2026',
-            subtitle: 'Development Intern Â· DAW Compulsory Internship',
+            subtitle: 'Development Intern · DAW Compulsory Internship',
             bullets: [
               'Worked with DataFlex for business application development in a professional environment',
               'Administered and configured a full Moodle 5.1.3 environment; designed and built a complete course within the platform',
@@ -117,7 +117,7 @@ export const en = {
           {
             name: 'Benalcoast Properties S.L.',
             date: 'Sep 2022 - Jul 2025',
-            subtitle: 'Operations Coordinator Â· Benalmadena',
+            subtitle: 'Operations Coordinator · Benalmadena',
             bullets: [
               'Built Google Apps Script automation tools to manage maintenance tasks and operational data',
               'Managed structured documentation: contracts, compliance records, and guest registration systems',
