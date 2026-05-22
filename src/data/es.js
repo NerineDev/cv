@@ -42,10 +42,6 @@ export const es = {
           { text: 'DAW - Desarrollo de Aplicaciones Web', strong: true },
           { text: 'CESUR Â· 2024 - junio 2026', tone: 'dim' },
           { text: 'FinalizaciÃ³n prevista: junio 2026', tone: 'highlight' },
-          { text: 'Grado en Turismo' },
-          { text: 'UNED Â· 2010-2014', tone: 'dim' },
-          { text: 'Grado en AdministraciÃ³n y DirecciÃ³n de Empresas' },
-          { text: 'UMA Â· 2004-2008', tone: 'dim' },
         ],
       },
       {

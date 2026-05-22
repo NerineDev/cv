@@ -42,10 +42,6 @@ export const en = {
           { text: 'DAW - Web App Development', strong: true },
           { text: 'CESUR Â· 2024 - June 2026', tone: 'dim' },
           { text: 'Graduating June 2026', tone: 'highlight' },
-          { text: "Bachelor's in Tourism" },
-          { text: 'UNED Â· 2010-2014', tone: 'dim' },
-          { text: "Bachelor's in Business Admin" },
-          { text: 'UMA Â· 2004-2008', tone: 'dim' },
         ],
       },
       {
