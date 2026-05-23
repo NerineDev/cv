@@ -7,7 +7,7 @@ export const en = {
     print: 'Save as PDF',
   },
   tech: {
-    name: ['Nerine', 'Aoi'],
+    name: ['Nerine Aoi'],
     tagline: 'Web Developer',
     contact: publicContact.tech,
     sidebar: [
