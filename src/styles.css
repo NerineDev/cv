@@ -182,10 +182,7 @@ button {
   font-weight: 700;
   line-height: 0.96;
   letter-spacing: -0.055em;
-}
-
-.name span:last-child br {
-  display: none;
+  white-space: nowrap;
 }
 
 .tagline {

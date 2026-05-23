@@ -2,19 +2,14 @@ import Sidebar from './Sidebar.jsx';
 import Section from './Section.jsx';
 
 export default function CVPage({ cv }) {
+  const displayName = Array.isArray(cv.name) ? cv.name.join(' ') : cv.name;
+
   return (
     <main className="cv tech-cv">
       <header className="cv-header">
         <div className="header-inner">
           <div>
-            <h1 className="name">
-              {cv.name.map((line) => (
-                <span key={line}>
-                  {line}
-                  <br />
-                </span>
-              ))}
-            </h1>
+            <h1 className="name">{displayName}</h1>
             <p className="tagline">{cv.tagline}</p>
           </div>
 
