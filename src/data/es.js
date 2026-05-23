@@ -8,7 +8,7 @@ export const es = {
   },
   tech: {
     name: ['Nerine', 'Aoi'],
-    tagline: 'Desarrolladora Web Junior · Benalmadena, Malaga',
+    tagline: 'Desarrolladora web',
     contact: publicContact.tech,
     sidebar: [
       {
@@ -42,6 +42,12 @@ export const es = {
           { text: 'DAW - Desarrollo de Aplicaciones Web', strong: true },
           { text: 'CESUR · 2024 - junio 2026', tone: 'dim' },
           { text: 'Finalización prevista: junio 2026', tone: 'highlight' },
+        ],
+      },
+      {
+        type: 'note',
+        title: 'Formación adicional',
+        lines: [
           { text: 'Full Stack Junior Developer with JavaScript and Node.js', strong: true },
           { text: 'CoreNetworks · oct. 2025 - ene. 2026', tone: 'dim' },
           { text: 'Herramientas Tecnológicas al servicio de la gestión comercial de clientes', strong: true },
@@ -54,17 +60,12 @@ export const es = {
           { text: 'Andalucía NEXUS · mar.-may. 2026', tone: 'dim' },
         ],
       },
-      {
-        type: 'note',
-        title: 'Otros datos',
-        lines: [{ text: 'Carnet de conducir y vehículo propio' }, { text: 'Disponible desde junio de 2026' }],
-      },
     ],
     sections: [
       {
         type: 'profile',
         title: 'Perfil',
-        text: 'Desarrolladora web junior con finalización prevista en junio de 2026, un proyecto full-stack entregado y experiencia de prácticas en desarrollo de software profesional. Mi trayectoria en gestión operativa, turismo y atención multilingüe aporta una visión de negocio real a los proyectos técnicos: desarrollo software pensado para resolver problemas concretos, no solo ejercicios. Acostumbrada a trabajar de forma autónoma, aprender herramientas nuevas con rapidez y comunicarme entre equipos e idiomas.',
+        text: 'Desarrolladora web finalizando DAW en junio de 2026, con un proyecto full-stack entregado y experiencia de prácticas en desarrollo de software profesional. Mi trayectoria en gestión operativa, turismo y atención multilingüe aporta una visión de negocio real a los proyectos técnicos: desarrollo software pensado para resolver problemas concretos, no solo ejercicios. Acostumbrada a trabajar de forma autónoma, aprender herramientas nuevas con rapidez y comunicarme entre equipos e idiomas.',
       },
       {
         type: 'entries',

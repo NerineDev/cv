@@ -8,7 +8,7 @@ export const en = {
   },
   tech: {
     name: ['Nerine', 'Aoi'],
-    tagline: 'Junior Web Developer · Benalmadena, Malaga',
+    tagline: 'Web Developer',
     contact: publicContact.tech,
     sidebar: [
       {
@@ -42,6 +42,12 @@ export const en = {
           { text: 'DAW - Web App Development', strong: true },
           { text: 'CESUR · 2024 - June 2026', tone: 'dim' },
           { text: 'Graduating June 2026', tone: 'highlight' },
+        ],
+      },
+      {
+        type: 'note',
+        title: 'Additional Training',
+        lines: [
           { text: 'Full Stack Junior Developer with JavaScript and Node.js', strong: true },
           { text: 'CoreNetworks · Oct 2025 - Jan 2026', tone: 'dim' },
           { text: 'Technology Tools for Commercial Customer Management', strong: true },
@@ -54,17 +60,12 @@ export const en = {
           { text: 'Andalucia NEXUS · Mar-May 2026', tone: 'dim' },
         ],
       },
-      {
-        type: 'note',
-        title: 'Additional',
-        lines: [{ text: 'Driving licence & own vehicle' }, { text: 'Available from June 2026' }],
-      },
     ],
     sections: [
       {
         type: 'profile',
         title: 'Profile',
-        text: 'Junior web developer graduating June 2026, with a delivered full-stack capstone project and active internship experience in professional software development. A background spanning operations management, tourism, and multilingual client work brings genuine business sense to technical builds: writing software that solves real problems, not just exercises. Comfortable working independently, picking up new tools fast, and communicating across teams and languages.',
+        text: 'Web developer completing DAW in June 2026, with a delivered full-stack capstone project and active internship experience in professional software development. A background spanning operations management, tourism, and multilingual client work brings genuine business sense to technical builds: writing software that solves real problems, not just exercises. Comfortable working independently, picking up new tools fast, and communicating across teams and languages.',
       },
       {
         type: 'entries',
