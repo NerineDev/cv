@@ -170,7 +170,7 @@ button {
   z-index: 1;
   display: flex;
   gap: 28px;
-  align-items: flex-end;
+  align-items: center;
   justify-content: space-between;
 }
 
